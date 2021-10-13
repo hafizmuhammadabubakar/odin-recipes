@@ -36,7 +36,7 @@ img {
 }
 
 h2 {
-	font-size: 3.4vw;
+	font-size: 3.6vw;
 	font-family: monospace;
 	text-decoration: underline;
 	margin: 0 auto;
@@ -44,6 +44,7 @@ h2 {
 
 p {
 	font-family: sans-serif;
+	font-size:2.6vw;
 }
 div {
 	background-color: orange;
