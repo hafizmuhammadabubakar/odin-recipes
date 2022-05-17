@@ -1,2 +1,2 @@
 # odin-recipes
-[Live Output](https://hafizmuhammadabubakar.github.io/odin-recipes/)
+[Live Preview](https://hafizmuhammadabubakar.github.io/odin-recipes/)
